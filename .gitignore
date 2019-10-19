@@ -9,7 +9,7 @@ delon-builds
 scripts/var.less
 
 # dependencies
-/node_modules
+# /node_modules
 /yarn.lock
 
 # IDEs and editors
