@@ -51,7 +51,7 @@ const config = {
 
 config[evn].evn = evn;
 config[evn].root = root;
-config[evn].port = 8010;
-config[evn].portHttps = 8011;
+config[evn].port = 8020;
+config[evn].portHttps = 8021;
 
 module.exports = config[evn];
