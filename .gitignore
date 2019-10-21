@@ -12,6 +12,7 @@ scripts/var.less
 # /node_modules
 /yarn.lock
 .logs
+/server/logs
 # IDEs and editors
 /.idea
 .project
